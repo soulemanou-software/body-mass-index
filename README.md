@@ -3,7 +3,7 @@
 # BODY MASS INDEX IN C LANGUAGE
 
 > Description the project.
-This execise is made to calculate a humand body mass index
+This execise is to calculate a humand body mass index
 
 ## Built With
 
