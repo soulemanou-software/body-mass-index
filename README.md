@@ -1,19 +1,22 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# BODY MASS INDEX IN C LANGUAGE
 
 > Description the project.
-
+This execise is made to calculate a humand body mass index
 
 ## Built With
 
 - Major languages
-- Frameworks
+  -c language 
+  
 - Technologies used
+  - dev++
+  - terminal
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+[comming soon](https://livedemo.com)
 
 
 ## Getting Started
@@ -41,13 +44,13 @@ To get a local copy up and running follow these simple example steps.
 ## Authors
 
 👤 **Author1**
-
+## soulemanou kunchiefuh babanou
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 👤 **Author2**
-
+## NOUDJE MAMBE RONNY
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
