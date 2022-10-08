@@ -8,7 +8,7 @@ This execise is made to calculate a humand body mass index
 ## Built With
 
 - Major languages
-  -c language 
+  - c language 
   
 - Technologies used
   - dev++
